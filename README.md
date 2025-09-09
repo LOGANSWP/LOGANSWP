@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loganswp&label=Profile%20views&color=0e75b6&style=flat" alt="loganswp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loganswp" alt="loganswp" /></a> </p>
+<div ><img  src="https://github-profile-trophy.vercel.app/?username=loganswp&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" /><br/></div>
 
 - 🔭 I’m currently working on [Estate](https://github.com/LOGANSWP/Estate)
 
@@ -46,8 +46,24 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loganswp&show_icons=true&locale=en&layout=compact" alt="loganswp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loganswp&show_icons=true&locale=en" alt="loganswp" /></p>
+<div>  
+  <!-- 语言统计 -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganswp&locale=en&line_height=33&theme=dark&langs_count=8&hide_border=true" alt="Top Languages"/>
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loganswp&" alt="loganswp" /></p>
+  <!-- GitHub 统计 -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=loganswp&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=github&hide_border=true" alt="GitHub Stats"/>
+  </p>
+  
+  <!-- 连续提交统计 -->
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=loganswp&theme=dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=loganswp&theme=light&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=loganswp&theme=default&hide_border=true" alt="GitHub Streak Stats"/>
+    </picture>
+  </p>
+</div>
