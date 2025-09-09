@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Weipeng(Logan) Su</h1>
-<h3 align="center">Currently a graduate student majoring in Computer Science at UIUC. Graduated with a bachelor's degree in Software Engineering from Southeast University.</h3>
+<h3 align="center">Currently a graduate student majoring in Computer Science at UIUC.</h3>
+<h3 align="center">Graduated with a bachelor's degree in Software Engineering from Southeast University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loganswp&label=Profile%20views&color=0e75b6&style=flat" alt="loganswp" /> </p>
 
