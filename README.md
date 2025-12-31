@@ -17,8 +17,8 @@
   </div>
 
   <!-- 个人信息 -->
-  <p>- 🔭 I’m currently working on <a href="https://github.com/LOGANSWP/Booking">Booking</a> and <a href="https://github.com/LOGANSWP/Recipe.ai">Recipe.ai</a></p>
-  <p>- 🌱 I’m currently learning <b>MERN Stack</b></p>
+  <p>- 🔭 I’m currently working on <a href="https://github.com/LOGANSWP/Meet.ai">Meet.ai</a></p>
+  <p>- 🌱 I’m currently learning <b>Full-Stack</b></p>
   <p>- 📫 How to reach me <b>logansu1025@outlook.com</b></p>
 
   <!-- Connect with me -->
