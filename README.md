@@ -18,7 +18,7 @@
 
   <!-- 个人信息 -->
   <p>- 🔭 I’m currently working on <a href="https://github.com/LOGANSWP/Meet.ai">Meet.ai</a></p>
-  <p>- 🌱 I’m currently learning <b>Full-Stack</b></p>
+  <p>- 🌱 I’m currently learning <b>LLM</b></p>
   <p>- 📫 How to reach me <b>logansu1025@outlook.com</b></p>
 
   <!-- Connect with me -->
